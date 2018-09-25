@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PlayAndroid</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <!-- login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_confirm">Password Confirm(Register)</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="login_register">Register</string>
+    <string name="login_login">Login</string>
+    <string name="password_confirm_not_empty">Confirm password cannot be empty.</string>
+    <string name="password_confirm_diff">Confirm password is not the same.</string>
+    <string name="password_not_empty">Password cannot be empty.</string>
+    <string name="password_length_short">Password length can not less than six.</string>
+    <string name="username_not_empty">Username cannot be empty.</string>
+    <string name="logout">Logout</string>
+    <string name="login_success">Login success</string>
+    <string name="register_success">Register success</string>
+    <string name="login_please_login">Please login first…</string>
+    <string name="not_login">Not logged in</string>
+    <string name="goto_login">Click login</string>
+</resources>
